@@ -7,5 +7,5 @@ This project is a serverless AWS Lambda image sharing application.
 ```
 .
 ├── client                      # Frontend React App
-├── serverless-udagram-app      # Backend serverless app using AWS lambda functions
+├── backend                     # Backend serverless app using AWS lambda functions
 ```
