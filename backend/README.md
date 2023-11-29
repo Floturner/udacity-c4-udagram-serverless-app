@@ -1,8 +1,6 @@
 # Serverless Udagram Backend App
 
-This project has been generated using the `aws-nodejs-typescript` template from the [Serverless framework](https://www.serverless.com/).
-
-For detailed instructions, please refer to the [documentation](https://www.serverless.com/framework/docs/providers/aws/).
+This application processes photos using an image-filtering microservice.
 
 ## Installation/deployment instructions
 
