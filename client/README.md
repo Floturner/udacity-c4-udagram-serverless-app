@@ -1,6 +1,6 @@
 # Serverless Udagram Frontend App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application allows users to register, log into their account, and post photos to the feed.
 
 ## Screenshots
 
