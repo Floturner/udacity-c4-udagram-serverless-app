@@ -1,6 +1,6 @@
 # Serverless Udagram Backend App
 
-This application processes photos using an image-filtering microservice.
+This application processes photos using an image filtering microservice.
 
 ## Installation/deployment instructions
 
